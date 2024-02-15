@@ -1,0 +1,14 @@
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\15 02 2024\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.exe
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\15 02 2024\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.deps.json
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\15 02 2024\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.runtimeconfig.json
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\15 02 2024\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.dll
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\15 02 2024\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.pdb
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\15 02 2024\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\15 02 2024\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.AssemblyInfoInputs.cache
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\15 02 2024\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.AssemblyInfo.cs
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\15 02 2024\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.csproj.CoreCompileInputs.cache
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\15 02 2024\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.dll
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\15 02 2024\WelcomeApp\WelcomeApp\obj\Debug\net6.0\refint\WelcomeApp.dll
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\15 02 2024\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.pdb
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\15 02 2024\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.genruntimeconfig.cache
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\15 02 2024\WelcomeApp\WelcomeApp\obj\Debug\net6.0\ref\WelcomeApp.dll
